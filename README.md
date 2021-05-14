@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samreshkv
-- 👀 I’m interested in ...DevOps and Learning New technology 
-- 🌱 I’m currently learning ... Kubenetes
+- 👀 I’m interested in ...DevOps and Learning new technology 
+- 🌱 I’m currently learning ... Kubernetes
 - 💞️ I’m looking to collaborate on ... orchestration 
 - 📫 How to reach me ...samresh.kv@gmail.com
 
